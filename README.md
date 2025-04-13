@@ -52,9 +52,6 @@ Gra jest skierowana do osób zaznajomionych z życiem akademickim, a zwłaszcza 
 
 Gra wykorzystuje lokalną komunikację między komponentami na komputerze gracza i przechowuje stan gry w bazie danych.
 
-## Instalacja i Uruchomienie
-Instrukcje dotyczące instalacji i uruchamiania gry zostaną dodane wkrótce.
-
 ## Podziękowania
 Dziękujemy za zainteresowanie naszym projektem. Wszelkie opinie i sugestie są mile widziane!
 
